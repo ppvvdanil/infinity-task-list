@@ -1,18 +1,18 @@
-# Infinity task list
+# Бесконечный лист задач
 
-## This application uses
+## Приложение разработано с помощью:
 - [`React`](https://ru.reactjs.org/ "`React`")
 - [`TypeScript`](https://www.typescriptlang.org/ "`React`")
 - [`MobX`](https://mobx.js.org/README.html "`MobX`")
 - [`Ant Design`](https://ant.design/ "`Ant Design`")
 
-## Getting started
-To get the frontend running locally:
+## Начало
+Чтобы запустить прокект локально:
 
-- Clone this repo
-- `npm install` to install all req'd dependencies
-- `npm start` to start the local server
+- Склонировать репозиторий
+- `npm install` установить рекомендованные зависимости
+- `npm start` запустить локальный сервер
 
-## Demo
-This application is running on GitHub Pages. <br>
-Link: https://spmoska.github.io/infinity-task-list/
+## Демонстрация
+Приложение запущено на GitHub Pages <br>
+Ссылка: https://ppvvdanil.github.io/infinity-task-list/
